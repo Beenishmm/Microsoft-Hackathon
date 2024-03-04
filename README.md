@@ -18,6 +18,7 @@ Intuitive User Interface: With a user-friendly interface and intuitive navigatio
 
 Whether users are looking to monitor their investment portfolios, conduct technical analysis, or stay updated on market news and trends, StockSavvy provides the tools and insights they need to succeed in today's dynamic financial markets.
 
-Project Repository URL: 
+Project Repository URL: https://github.com/Beenishmm/Microsoft-Hackathon/tree/main
+
 
 Team Members: Beenish Mehboob
