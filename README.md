@@ -2,7 +2,7 @@
 Project Name: StockSavvy: Real-Time Stock Data Analysis
 
 Description:
-StockSavvy is a real-time stock data analysis platform designed to provide investors and traders with valuable insights into the financial markets. Leveraging cutting-edge technologies, StockSavvy aggregates and analyzes vast amounts of stock market data in real-time, empowering users to make informed decisions quickly and confidently.
+StockSavvy is a real-time stock data analysis platform designed to provide investors and traders with valuable insights into the financial markets. Leveraging advanced technologies, StockSavvy aggregates and analyzes vast amounts of stock market data in real-time, empowering users to make informed decisions quickly and confidently.
 
 Key features of StockSavvy include:
 
